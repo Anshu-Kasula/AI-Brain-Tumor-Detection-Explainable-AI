@@ -1,0 +1,22 @@
+
+AI Brain Tumor Detection Report
+--------------------------------
+Patient Details
+---------------
+Name: John
+Age: 30
+Gender: Male
+Phone: 1234567899
+
+Doctor: doctor1
+
+Diagnosis Results
+-----------------
+Prediction: Tumor Detected
+Tumor Probability: 0.9999
+Normal Probability: 0.0001
+
+Clinical Trust Assessment
+--------------------------
+Time-to-Trust: 0.0001
+Trust Score: 0.9999
